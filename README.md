@@ -23,9 +23,3 @@ Merhaba arkadaşlar! Bugün sizlere kendi geliştirdiğim bir projeden bahsetmek
 * Veritabanı işlemleri için Entity Framework Core kullanıldı.
 * DTO (Data Transfer Object) tasarım deseni ile veri transferi optimize edildi.
 * .NET Core ile geliştirildi, bu sayede platform bağımsızdır.
-  
-🌐 GitHub Depo Linki: NetLibraryEfCoreAndDtoExample
-
-Projeyi incelemek ve daha fazla bilgi almak için GitHub deposunu ziyaret edebilirsiniz. Sorularınız veya geri bildirimleriniz varsa lütfen paylaşın! 
-
-Umarım bu gönderi, projenizi tanıtmak için işinize yarar! Başarılar dilerim! 
